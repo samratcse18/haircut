@@ -1,0 +1,13 @@
+.section {
+    background: #000 url("./img/terrain-pattern.svg") center/510px repeat;
+}
+
+.text {
+    line-height: 2.3;
+}
+
+.img1 {
+    height: 500px;
+    margin: auto;
+}
+
